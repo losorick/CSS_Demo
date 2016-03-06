@@ -10,7 +10,9 @@ a {
     color: red;
     text-decoration:none ;
 }
-
+a:link{
+    color: pink;
+}
 a:visited{
     color: #ff0;
 }
@@ -20,15 +22,12 @@ a:hover {
 a:active{
     color: #0f0;;
 }
-
 #pink{
     background: pink;
 }
-
 .red{
     color: #fb0;
 }
-
 .bg-red{
     background: #f00;
 }
