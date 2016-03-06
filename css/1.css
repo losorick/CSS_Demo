@@ -20,3 +20,15 @@ a:hover {
 a:active{
     color: #0f0;;
 }
+
+#pink{
+    background: pink;
+}
+
+.red{
+    color: #fb0;
+}
+
+.bg-red{
+    background: #f00;
+}
