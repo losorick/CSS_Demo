@@ -9,3 +9,7 @@ h1.test1{
 b,em,ins,del{
     color:darkred;
 }
+
+p b ins del {
+    color: blue;
+}
